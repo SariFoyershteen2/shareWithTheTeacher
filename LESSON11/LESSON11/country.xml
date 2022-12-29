@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<events>
+  <event name="Israel">
+    <CapitalCity>ירושלים</CapitalCity>
+    <language>עברית</language>
+    <cities>
+      <city name="Haifa" numOfPepole="50000" />
+      <city name="Tel Aviv" numOfPepole="70000" />
+    </cities>
+    <seas>
+      <sea>name="תיכון"</sea>
+      <sea>name="כנרת"</sea>
+      <sea>name="מלח"</sea>
+    </seas>
+  </event>
+  <event name="אצרות הברית">
+    <CapitalCity>ניו יורק</CapitalCity>
+    <language>אנגלית</language>
+    <cities>
+      <city name="Boropark" numOfPepole="2000000" />
+      <city name="Bruklin" numOfPepole="1000000" />
+    </cities>
+    <seas>
+      <sea>name="ששש"</sea>
+      <sea>name="דדד"</sea>
+      <sea>name="גגג"</sea>
+    </seas>
+  </event>
+  <event name="France">
+    <CapitalCity>Pariz</CapitalCity>
+    <language>צרפתית</language>
+    <cities>
+      <city name="kkk" numOfPepole="50000" />
+      <city name="hbh" numOfPepole="70000" />
+    </cities>
+    <seas>
+      <sea>name="כככ"</sea>
+      <sea>name="עעע"</sea>
+      <sea>name="ייי"</sea>
+    </seas>
+  </event>
+  <event name="אוקריאנה">
+    <language>רוסית</language>
+  </event>
+  <event name="אוקריאנה">
+    <language>רוסית</language>
+    <cities>
+      <city name="Odesa" numOfPeople="400000" />
+    </cities>
+  </event>
+  <event name="אוקריאנה">
+    <language>רוסית</language>
+    <cities>
+      <city name="Odesa" numOfPeople="400000" />
+    </cities>
+  </event>
+  <event name="אוקריאנה">
+    <language>רוסית</language>
+    <cities>
+      <city name="Odesa" numOfPeople="400000" />
+    </cities>
+  </event>
+  <event name="אוקריאנה">
+    <language>רוסית</language>
+    <cities>
+      <city name="Odesa" numOfPeople="400000" />
+    </cities>
+  </event>
+  <event name="אוקריאנה">
+    <language>רוסית</language>
+    <cities>
+      <city name="Odesa" numOfPeople="400000" />
+    </cities>
+  </event>
+  <event name="אוקריאנה">
+    <language>רוסית</language>
+    <cities>
+      <city name="Odesa" numOfPeople="400000" />
+    </cities>
+  </event>
+  <event name="אוקריאנה">
+    <language>רוסית</language>
+    <cities>
+      <city name="Odesa" numOfPeople="400000" />
+    </cities>
+  </event>
+  <event name="אוקריאנה">
+    <language>רוסית</language>
+    <cities>
+      <city name="Odesa" numOfPeople="400000" />
+    </cities>
+  </event>
+  <event>
+   
+  </event>
+</events>
